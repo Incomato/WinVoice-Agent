@@ -1,0 +1,8 @@
+{
+  "name": "WinVoice Agent UI",
+  "description": "A web-based user interface for a local-first AI agent designed to control Windows 11 through voice and text commands, with a strong focus on privacy, security, and traceability.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
